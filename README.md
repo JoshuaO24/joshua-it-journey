@@ -4,7 +4,7 @@ Welcome to my career documentation hub! I'm currently on a mission to break into
 
 ## 🎯 Career Goals
 - Become a certified **Network Engineer**
-- Build hands-on experience in **IT support**, **networking**, and **security**
+- Build hands-on experience in **IT support** and **networking**
 - Continue growing my skills in **Python**, **Cloud**, and **Automation**
 
 ---
@@ -13,8 +13,7 @@ Welcome to my career documentation hub! I'm currently on a mission to break into
 
 | Certification        | Status       | Target Completion |
 |----------------------|--------------|-------------------|
-| CompTIA A+           | In Progress  | Sept 2025         |
-| CompTIA Network+     | Upcoming     | Fall 2025         |
+| CompTIA Network+     | In Progress  | Fall 2025         |
 | Cisco CCNA           | Planned      | Late 2025         |
 
 I'm also pursuing a **Bachelor’s in Information Technology** alongside certification prep.
